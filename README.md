@@ -41,7 +41,7 @@
 
 ---
 ## Poster
-<p align-item="center">
+<p align="center">
     <img width="359" height="536" alt="image" src="https://github.com/user-attachments/assets/5002fb0c-c026-4dd5-b5d7-1d1c8e8b0cbb" />
 </p>
 ---
